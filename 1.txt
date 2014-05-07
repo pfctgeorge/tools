@@ -1,0 +1,12 @@
+a7be aeb0 0100 0000 d500 0000 0000 0000
+b0a6 fa9e 4501 0000 6261 6964 7520 6c6f
+67
+
+
+    Fixes #4: add support to create/delete/edit importer jobs, and refactor
+    importer jobs' list controller and view.
+
+    * create new importer jobs.
+    * delete importer jobs.
+    * edit existed jobs basic information.
+    * add and delete job's dependencies.
